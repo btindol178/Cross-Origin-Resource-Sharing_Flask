@@ -1,0 +1,3 @@
+# Real example if your api is hosted on one server and your front end code is hosted on another server
+# JS cant make request to api's on other servers without the access-control-allow-orgin header
+# to do this we use CORS 
